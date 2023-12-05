@@ -26,7 +26,7 @@ Segueix aquestes instruccions per preparar el teu "R environment":
 Després d'aquests passos obre l'RStudio. Descarrega la carpeta "0_SetUp" i obre el projecte: `Setup.Rproj`
 
 Si l'has obert correctament, hauries de veure el següent:
-![training](https://github.com/rwepi-idiapjgol/FormacionsIDIAP-IntroduccioOMOP/assets/80947940/15ff913e-be09-4668-84fd-9658446cfd1b)
+![training](https://github.com/rwepi-idiapjgol/IntroduccioOMOP_SetUp](https://github.com/rwepi-idiapjgol/IntroduccioOMOP_SetUp/blob/main/SetUp.png)
 
 Per tal de fer la pràctica cal que instal·leu els següents paquets. Fer-ho és molt fàcil, tan sols heu d'escriure aquesta comanda a la consola de l'R: `install.packages("PackageName")`
 
